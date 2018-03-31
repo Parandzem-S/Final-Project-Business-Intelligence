@@ -73,7 +73,7 @@ figure1S = {
 	    }
 	}],
 	'layout' : {
-		'title' : 'Short Portfolio',
+		'title' : '<b>Short Portfolio<b>',
 		'annotations' : [{
 				'showarrow' : False,
 				'text' : '50%',
