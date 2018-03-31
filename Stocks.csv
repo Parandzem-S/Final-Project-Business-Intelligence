@@ -1,0 +1,116 @@
+StockNames,Country,Industry,CountryCode
+AMAT,USA,Technology,USA
+NXPI,Netherlands,Technology,NLD
+LRCX,USA,Technology,USA
+NTAP,USA,Technology,USA
+TER,USA,Technology,USA
+AYI,USA,Technolgy,USA
+MKSI,USA,Technology,USA
+UBNT,USA,Technology,USA
+NCR,USA,Technology,USA
+JCOM,USA,Technology,USA
+AEIS,USA,Technology,USA
+TSEM,Israel,Technology,ISR
+CIEN,USA,Technology,USA
+TTMI,USA,Technology,USA
+INVA,USA,Technology,USA
+UCTT,USA,Technology,USA
+auto,USA,Services,USA
+TACT,USA,Technology,USA
+VLO,USA,Basic Materials,USA
+EC,Colombia,Basic Materials,COL
+FCX,USA,Basic Materials,USA
+PAA,USA,Basic Materials,USA
+GG,Canada,Basic Materials,CAN
+STLD,USA,Basic Materials,USA
+MEOH,Canada,Basic Materials,CAN
+NFX,USA,Basic Materials,USA
+WOR,USA,Basic Materials,USA
+CPE,USA,Basic Materials,USA
+JAZZ,Ireland,Healthcare,IRL
+MGLN,USA,Healthcare,USA
+WBA,USA,Services,USA
+DE,USA,Industrial goods,USA
+AMP,USA,Financial,USA
+RYAAY,Ireland,Services,IRL
+NUE,USA,Basic Materials,USA
+IVZ,USA,Financial,USA
+HST,USA,Financial,USA
+URI,USA,Services,USA
+RJF,USA,Financial,USA
+LKQ,USA,Consumer goods,USA
+AMG,USA,Financial,USA
+PHM,USA,Industrial goods,USA
+BMA,Argentina,Financial,ARG
+GGAL,Argentina,Financial,ARG
+PWR,USA,Industrial goods,USA
+CPA,Panama ,Services,PAN
+PNFP,USA,Financial,USA
+SLM,USA,Financial,USA
+BFR,Argentina,Financial,ARG
+TECD,USA,Services,USA
+ADS,USA,Services,USA
+AGN,Ireland,Healthcare,IRL
+ANDV,USA,Energy,USA
+ARE,USA,Financial,USA
+ESRX,USA,Healthcare,USA
+EV,USA,Financial,USA
+PGR,USA,Financial,USA
+CMA,USA,Financial,USA
+FIG,USA,Financial,USA
+RAD,USA,Services,USA
+PRAA,USA,Services,USA
+KFRC,USA,Services,USA
+HZO,USA,Services,USA
+ZUMZ,USA,Services,USA
+BBSI,USA,Services,USA
+CNTY,USA,Services,USA
+TMHC,USA,Industrial goods,USA
+KBH,USA,Industrial goods,USA
+DOOR,USA,Industrial goods,USA
+AIR,USA,Services,USA
+HOLI,China,Industrial goods,USA
+MHO,USA,Industrial goods,USA
+RYI,USA,Industrial goods,USA
+OI,USA,Consumer goods,USA
+MLHR,USA,Consumer goods,USA
+THRM,USA,Consumer goods,USA
+CAL,USA,Consumer goods,USA
+ESTC3.SA,Brazil,Services,BRA
+VEDL.NS,India,Basic Materials,IND
+GAIL.NS,India ,Utilities,IND
+YESBANK.NS,India,Financial,IND
+INDIGO.NS,India,Services,IND
+UPL.NS,India,Basic Materials,IND
+PFC.NS,India,Financial,IND
+OIL.NS,India,Basic Materials,IND
+CANBK.NS,India,Financial,IND
+CESC.NS,India ,Utilities,NLD
+CUB.NS,India,Financial,IND
+SRF.NS,India,Industrial goods,IND
+OCL.NS,India,Industrial goods,IND
+KEC.NS,India ,Utilities,NLD
+SUNTECK.NS,India,Financial,IND
+KPRMILL.NS,India,Consumer goods,IND
+TECHNO.NS,India,Industrial goods,IND
+NESCO.NS,India,Services,IND
+FDC.NS,India,Healthcare,IND
+JKTYRE.NS,India,Consumer goods,IND
+PRAKASH.NS,India,Basic Materials,IND
+JKIL.NS,India,Industrial goods,IND
+RDSB.L,Netherlands,Basic Materials,NLD
+TSCO.L,UK,Services,GBR
+BGSF,USA,Services,USA
+CMG,USA,Services,USA
+LAD,USA,Services,USA
+NXST,USA,Services,USA
+RICK,USA,Services,USA
+BP.L,UK,Basic Materials,GBR
+ITV.L,UK,Services,GBR
+BPE5.F,UK,Energy,GBR
+VOW3.F,Germany,Industrial goods,DEU
+HEI.F,Germany,Industrial goods,DEU
+HRS,USA,Technology,USA
+SZU.DE,Germany,Consumer goods,DEU
+LEO.DE,Germany,Consumer goods,DEU
+SZG.F,Germany,Industrial goods,DEU
