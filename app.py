@@ -177,9 +177,9 @@ def update_graph_2(input_value):
 
 def update_graph_5(input_value):
     input5 = "WIKI/" + input_value
-    data= quandl.get(input5,start_date="2017-01-01")
-    sp = quandl.get("MULTPL/SP500_REAL_PRICE_MONTH")
-    dj = quandl.get("FRED/M1109BUSM293NNBR")
+    data= quandl.get(input5,start_date="2010-01-01")
+    sp = quandl.get("MULTPL/SP500_REAL_PRICE_MONTH",start_date="2010-01-01")
+    dj = quandl.get("BCB/UDJIAD1", start_date="2010-01-01")
 
     t1 = go.Scatter(x=dj.index, y= data.Close, mode = 'lines', name = input_value
         )
